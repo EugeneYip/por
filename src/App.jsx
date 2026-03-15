@@ -826,3 +826,5 @@ function PortugueseGuide() {
     </div>
   );
 }
+
+export default PortugueseGuide;
